@@ -15,3 +15,4 @@
 | 18/11/2026 | 8:25  | 10:05 | 110 min | Schets |
 | 22/11/2026 | 10:20 | 14:30 | 250 min | Eindigen schets |
 | 23/11/2026 | 18:30 | 18:50 | 20 min  | Logboek maken + puntjes op de i schets |
+| 25/11/2026 | 9:00  | 9:05  | 5 min   | Een likebutton maken en een like menutje |
